@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Fetching Data in React Lab](./assets/hero.png)
 
 ## About
 
