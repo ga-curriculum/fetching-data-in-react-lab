@@ -2,13 +2,13 @@
 
 ## Overview
 
-![tktk Hunter - screenshots of app]()
+![App screenshot](./assets/screenshot.png)
 
 In this lab, you will be retrieving data from the [Star Wars API (SWAPI)](https://swapi.dev/) and inserting it into the DOM. We will build an application that allows users to view a list of starships, and refine their results by searching for starships by name. In completing this lab, you will get some practice in fetching data from a third-party API in React.
 
 Take a look at the component hierarchy diagram below for a sense of how this application will be structured:
 
-![tktk Hunter]() 
+![Component hierarchy diagram](./assets/chd.png) 
 
 In the list below, you'll find a brief description of the role of each component in our app:
 
@@ -57,4 +57,44 @@ Your primary goal is to implement the user stories listed above. To get started,
 
 ## Level up
 
-Once you have completed the lab, pick another resource from the ones listed on the left of the [documentation page](https://swapi.dev/documentation) (e.g. People, Species, Planets, etc...) and build a user interface implementing the same functionality for starships.
+1. Once you have completed the lab, pick another resource from the ones listed on the left of the [documentation page](https://swapi.dev/documentation) (e.g. People, Species, Planets, etc...) and build a user interface implementing the same functionality as starships.
+
+2. Add some styling to enhance the user experience of your application. Feel free to use the provided code below as a jumping off point:
+
+    ```css
+    /* Initial styling */
+
+    main {
+    padding: 16px 32px;
+    }
+
+    section ul {
+    padding: 0;
+    display: grid;
+    grid-gap: 16px;
+    list-style: none;
+    grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    li {
+    padding: 8px 16px;
+    border-radius: 8px;
+    background-color: #333333;
+    border: 1px solid rgb(160, 160, 160);
+    }
+
+    form {
+    display: flex;
+    align-items: center;
+    }
+
+    form * {
+    margin-right: 16px;
+    }
+
+    input, button {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid rgb(160, 160, 160);
+    }
+    ```
