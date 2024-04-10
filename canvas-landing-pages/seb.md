@@ -1,1 +1,1 @@
-# ![Fetching Data in React Lab](./assets/hero.png)
+# ![Fetching Data in React Lab](../assets/hero.png)
