@@ -15,7 +15,7 @@ Estimated time to complete core lab exercise: **60 min**
 
 ## Solution code
 
-🏁 [tktk Solution code](#tktk-external-repo-link-url)
+🏁 [tktk Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/fetching-data-in-react-lab-solution)
 
 ## Internal resources
 
