@@ -7,7 +7,7 @@
 
 ![App screenshot](./assets/screenshot.png)
 
-In this lab, we'll create an application that fetches and displays data from the [Star Wars API (SWAPI)](https://swapi.dev/). You'll develop a feature that presents a list of starships and allows users to search for specific starships by name.
+In this lab, we'll create an application that fetches and displays data from the [Star Wars API (SWAPI)](https://swapi.info/). You'll develop a feature that presents a list of starships and allows users to search for specific starships by name.
 
 During this exercise, you will practice making an API call and dynamically updating the DOM in React.
 
