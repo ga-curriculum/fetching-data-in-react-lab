@@ -24,7 +24,7 @@ Estimated time to complete core lab exercise: **90 min**
 
 ### Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/fetching-data-in-react-lab-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/fetching-data-in-react-lab-solution)
 
 ### Course landing pages
 
